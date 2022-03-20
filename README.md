@@ -1,6 +1,6 @@
-# MoviesApp
+# NG Movies App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+This is a simple angular application to search form movies with trailers
 
 ## Development server
 
